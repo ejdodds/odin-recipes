@@ -6,3 +6,17 @@
     width: 300px;
     height: auto;
 }
+
+.title {
+    font-weight: 1000;
+    background-color: rgb(152, 235, 52);
+    text-align: center;
+}
+
+.sub-heading {
+    background-color: rgb(97, 209, 17);
+}
+
+body{
+    background-color: rgb(240, 192, 125);
+}
