@@ -1,7 +1,6 @@
 * {
     font-family: 'Verdana', 'Helvetiva', sans-serif;
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
@@ -14,10 +13,16 @@
     font-weight: 1000;
     background-color: rgb(152, 235, 52);
     text-align: center;
+    padding: 10px;
+    border: 5px solid rgb(255,255,0);
+    margin: 10px;
 }
 
 .sub-heading {
     background-color: rgb(97, 209, 17);
+    padding: 15px;
+    margin: 20px 0;
+    border: 10px double rgb(255,255,0);
 }
 
 body{
