@@ -4,10 +4,12 @@
     box-sizing: border-box;
 }
 
+
 .img-recipe {
     width: 300px;
     height: auto;
 }
+
 
 .title {
     font-weight: 1000;
@@ -18,27 +20,35 @@
     margin: 10px;
 }
 
+
 .sub-heading {
     background-color: rgb(97, 209, 17);
     padding: 15px;
-    margin: 20px 0;
     border: 10px double rgb(255,255,0);
+    margin: 30px 10px;
 }
+
+
+.content p {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
 
 body{
     background-color: rgb(240, 192, 125);
 }
 
+
 .header a {
     display: block;
+    padding: 10px;
 }
 
-.sub-heading {
-    margin: 20px 10px;
-}
 
 .footer {
-    margin: 20px auto;
+    margin: 20px auto 0;
     padding: 10px 10px;
     text-align: center;
     background-color: rgb(219,130,24);
