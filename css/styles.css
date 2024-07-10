@@ -28,3 +28,18 @@
 body{
     background-color: rgb(240, 192, 125);
 }
+
+.header a {
+    display: block;
+}
+
+.sub-heading {
+    margin: 20px 10px;
+}
+
+.footer {
+    margin: 20px auto;
+    padding: 10px 10px;
+    text-align: center;
+    background-color: rgb(219,130,24);
+}
